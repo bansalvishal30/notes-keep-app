@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/notes-keep-app/static/js/main.28145049.js",
+    "static/js/787.aaaa8624.chunk.js": "/notes-keep-app/static/js/787.aaaa8624.chunk.js",
+    "index.html": "/notes-keep-app/index.html",
+    "main.28145049.js.map": "/notes-keep-app/static/js/main.28145049.js.map",
+    "787.aaaa8624.chunk.js.map": "/notes-keep-app/static/js/787.aaaa8624.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.28145049.js"
+  ]
+}
